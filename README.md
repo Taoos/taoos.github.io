@@ -2,10 +2,9 @@
 
 
 
-### Markdown
+###宗旨
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+全面交叉多学科研究人工智能
 ```markdown
 Syntax highlighted code block
 
